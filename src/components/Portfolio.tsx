@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Star, TrendingUp, Quote, X, ChevronLeft, ChevronRight } from 'lucide-react';
+import { Star, TrendingUp, X, ChevronLeft, ChevronRight } from 'lucide-react';
 
 const trades = [
   {
